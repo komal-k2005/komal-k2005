@@ -36,4 +36,4 @@
 
 ---
 
-⭐ **Fun fact:** I love exploring new technologies and helping others learn coding!
+I love exploring new technologies and helping others learn coding!
