@@ -11,7 +11,6 @@
   <a href="mailto:hellokomalk@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=komal-k2005&style=for-the-badge&color=blue" />
 </p>
 
 ---
