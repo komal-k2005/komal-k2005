@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3500&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey+👋+I'm+Komal+Kathawade;B.Tech+Computer+Engineering+Student;Aspiring+Data+Scientist+📊;Java+%7C+Python+Developer+🚀;Future+AI+Engineer+💡" />
 </h1>
 
-<h3 align="center">💙 Turning Data into Insights | Turning Ideas into Reality</h3>
+<h3 align="center">Turning Data into Insights | Turning Ideas into Reality</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/komal-kathawade/">
@@ -87,7 +87,7 @@
 
 ## ✨ Personal Branding  
 
-> 💙 **"Code with Logic. Build with Purpose. Grow with Consistency."**  
+>  **"Code with Logic. Build with Purpose. Grow with Consistency."**  
 > 🚀 Learning Today. Innovating Tomorrow.
 
 ---
