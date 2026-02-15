@@ -67,14 +67,6 @@
 
 ---
 
-## 🐍 Contribution Snake Animation  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/komal-k2005/komal-k2005/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🌟 Current Focus  
 
 🔹 Data Science Projects  
