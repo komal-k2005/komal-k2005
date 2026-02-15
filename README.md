@@ -1,40 +1,56 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Komal+Kathawade;B.Tech+Computer+Engineering+Student;Aspiring+Data+Scientist+📊;Future+AI+Innovator+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3500&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey+👋+I'm+Komal+Kathawade;B.Tech+Computer+Engineering+Student;Aspiring+Data+Scientist+📊;Java+%7C+Python+Developer+🚀;Future+AI+Engineer+💡" />
 </h1>
 
-<h3 align="center">💙 Turning Ideas Into Intelligent Solutions</h3>
+<h3 align="center">💙 Turning Data into Insights | Turning Ideas into Reality</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/komal-kathwade/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/komal-kathawade/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:hellokomalk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Talk-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=komal-k2005&style=for-the-badge&color=blue" />
 </p>
 
 ---
 
-## 🚀 About Me  
+## 👩‍💻 About Me  
 
-✨ Passionate **Computer Engineering Student** focused on building impactful tech solutions.  
-📊 Exploring the world of **Data Science, AI & Machine Learning**.  
-🌐 Crafting modern web experiences with **React & Tailwind CSS**.  
-🧠 Strong foundation in **Python, Problem Solving & Databases**.  
-🎯 Mission: To build intelligent systems that simplify lives.  
+🎓 Third-Year Computer Engineering Student passionate about building intelligent systems.  
+📊 Focused on **Data Science, Machine Learning & Artificial Intelligence**.  
+💻 Developing scalable applications using **Java, Python & React**.  
+🌱 Currently improving **DSA & problem-solving skills**.  
+🎯 Mission: To create impactful tech solutions that simplify lives.  
 
 ---
 
-## 🛠️ Tech Arsenal  
+## 🛠️ Tech Stack  
 
+### 💻 Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css,react,tailwind,php,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp" />
+</p>
+
+### 🌐 Web Development  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,php" />
+</p>
+
+### 🗄️ Database  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### ⚙️ Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Performance Dashboard  
+## 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=komal-k2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170px"/>
@@ -43,10 +59,18 @@
 
 ---
 
-## 📈 Coding Activity  
+## 📈 Contribution Activity  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=komal-k2005&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=komal-k2005&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/komal-k2005/komal-k2005/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -55,25 +79,28 @@
 
 🔹 Data Science Projects  
 🔹 Machine Learning Models  
-🔹 Full-Stack Web Development  
-🔹 DSA & Competitive Programming  
+🔹 Java Backend Development  
+🔹 Full-Stack Web Applications  
+🔹 Competitive Programming  
 
 ---
 
 ## 🏆 Achievements & Growth  
 
 🌱 Continuous Learner  
-💡 Tech Explorer  
-🤝 Knowledge Sharer  
+💡 Strong Analytical Thinker  
+🤝 Team Player  
 🚀 Future AI Engineer  
 
 ---
 
-## 💫 Personal Branding Statement  
+## ✨ Personal Branding  
 
-> **“I don’t just write code — I build solutions that make a difference.”** 💙  
-> Learning today. Innovating tomorrow. Leading the future.
+> 💙 **"Code with Logic. Build with Purpose. Grow with Consistency."**  
+> 🚀 Learning Today. Innovating Tomorrow.
 
 ---
 
-⭐ If you like my work, consider starring my repositories!
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my repositories!
+</p>
