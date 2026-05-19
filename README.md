@@ -123,7 +123,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&width=500&lines=Thanks+for+visiting!+%E2%AD%90+Star+my+repos+if+you+like+my+work" alt="Footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&width=460&lines=Thanks+for+visiting!+%E2%AD%90+Star+my+repos+if+you+like+my+work" alt="Footer"/>
 </p>
 
 <br/>
