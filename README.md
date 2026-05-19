@@ -1,9 +1,11 @@
-<!-- Header (capsule-render — stable CDN) -->
+<!-- Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=200&section=header&text=Komal%20Kathwade&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20%26%20AI%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=58&descAlign=50"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3800&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey+%F0%9F%91%8B+I'm+Komal+Kathwade;Turning+Data+into+Insights+%F0%9F%93%8A;Turning+Ideas+into+Reality+%F0%9F%9A%80;Java+%7C+Python+%7C+React+Developer;Future+AI+Engineer+%F0%9F%92%A1" alt="Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3800&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey+%F0%9F%91%8B+I'm+Komal+Kathwade;Turning+Data+into+Insights+%F0%9F%93%8A;Turning+Ideas+into+Reality+%F0%9F%9A%80;Java+%7C+Python+%7C+React+Developer;Future+AI+Engineer+%F0%9F%92%A1" alt="Typing"/>
 </h1>
+
+<h3 align="center">Turning Data into Insights | Turning Ideas into Reality</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/komal-kathwade/">
@@ -44,7 +46,7 @@
 
 ---
 
-<!-- Tech Stack (shields.io — always works, no external API) -->
+<!-- Tech Stack -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
@@ -68,19 +70,16 @@
 
 ---
 
-<!-- GitHub Stats (reliable mirrors — no Heroku) -->
+<!-- GitHub Stats (github-readme-stats.vercel.app is PAUSED — using working services) -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komal-k2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_radius=10&cache_seconds=86400" height="165" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=komal-k2005&theme=tokyonight" height="180" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=komal-k2005&theme=tokyonight" height="180" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=komal-k2005&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&border_radius=10" height="165" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal-k2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10&cache_seconds=86400" height="165" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com/?user=komal-k2005&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&border_radius=10" height="170" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -110,7 +109,6 @@
 
 <br/>
 
-<!-- Quote (plain text — no external API) -->
 <h3 align="center">✨ Personal Branding</h3>
 
 <p align="center">
@@ -121,7 +119,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&width=480&lines=Thanks+for+visiting!+%E2%AD%90+Star+my+repos+if+you+like+my+work" alt="Footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&width=480&lines=Thanks+for+visiting!+%E2%AD%90+Star+my+repos+if+you+like+my+work" alt="Footer"/>
 </p>
 
 <br/>
