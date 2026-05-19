@@ -1,11 +1,15 @@
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=200&section=header&text=Komal%20Kathwade&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20%26%20AI%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=58&descAlign=50"/>
+<!-- Header (markdown always works — no external image API) -->
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3800&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey+%F0%9F%91%8B+I'm+Komal+Kathwade;Turning+Data+into+Insights+%F0%9F%93%8A;Turning+Ideas+into+Reality+%F0%9F%9A%80;Java+%7C+Python+%7C+React+Developer;Future+AI+Engineer+%F0%9F%92%A1" alt="Typing"/>
-</h1>
+# Komal kathwade
 
-<h3 align="center">Turning Data into Insights | Turning Ideas into Reality</h3>
+### Aspiring Data Scientist · ML & AI · Full-Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3800&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey+%F0%9F%91%8B+I'm+Komal+kathwade;Turning+Data+into+Insights+%F0%9F%93%8A;Turning+Ideas+into+Reality+%F0%9F%9A%80;Java+%7C+Python+%7C+React+Developer;Future+AI+Engineer+%F0%9F%92%A1" alt="Typing"/>
+
+**Turning Data into Insights | Turning Ideas into Reality**
+
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/komal-kathwade/">
@@ -124,4 +128,10 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer"/>
+<div align="center">
+
+---
+
+**Made with ❤️ by Komal** · *Learning Today. Innovating Tomorrow.*
+
+</div>
