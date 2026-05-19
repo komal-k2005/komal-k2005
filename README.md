@@ -1,136 +1,226 @@
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:7C3AED,100:0D1117&height=180&section=header&text=Komal%20Kathawade&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=B.Tech%20Computer%20Engineering%20%7C%20Data%20Science%20%26%20AI&descSize=16&descAlignY=55&descAlign=50"/>
+<!-- ═══════════════════════════════════════════════════════════════
+     🌌 MIDNIGHT AURORA — GitHub Profile | Komal Kathawade
+     ═══════════════════════════════════════════════════════════════ -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B+I'm+Komal+Kathawade;Turning+Data+into+Insights+%F0%9F%93%8A;Java+%7C+Python+%7C+React+Developer+%F0%9F%9A%80;Aspiring+Data+Scientist+%26+AI+Engineer+%F0%9F%92%A1;Building+Intelligent+Systems+One+Commit+at+a+Time" />
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&width=100%&color=0:FF6B9D,50:7C3AED,100:0D1117&text=KOMAL%20KATHAWADE&fontSize=48&fontColor=ffffff&fontAlignY=38&stroke=00F5FF&strokeWidth=1.5&animation=twinkling&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20AI%20%C2%B7%20Full-Stack&descSize=18&descAlignY=62&descAlign=50"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=komal-k2005&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=4500&pause=1500&color=FF6B9D&center=true&vCenter=true&width=850&lines=Hey+there+%F0%9F%8C%B8;I+turn+data+into+stories+%F0%9F%93%8A;I+turn+ideas+into+products+%F0%9F%9A%80;Future+AI+Engineer+in+the+making+%E2%9C%A8" alt="Typing intro"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/komal-kathawade/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hellokomalk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/komal-k2005">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=00F5FF&center=true&width=700&lines=B.Tech+Computer+Engineering+%7C+3rd+Year;Java+%C2%B7+Python+%C2%B7+React+%C2%B7+MySQL" alt="Subtitle"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/komal-k2005/komal-k2005/output/snake.svg" alt="Contribution snake" width="100%"/>
+<br/>
 
----
-
-## 👩‍💻 About Me
-
-```yaml
-name: Komal Kathawade
-role: B.Tech Computer Engineering Student (3rd Year)
-focus: [Data Science, Machine Learning, AI, Full-Stack Development]
-currently_learning: [DSA, Problem Solving, ML Models, Java Backend]
-mission: Build impactful tech that simplifies real-world problems
-motto: "Code with Logic. Build with Purpose. Grow with Consistency."
-```
-
-<table align="center">
+<!-- Hero: Photo + Intro -->
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/L1R1ATwWnYpH0IMV8G/200w.gif" width="80" alt="Coding"/>
-      <br/><b>💻 Developer</b><br/>Java · Python · React
+    <td width="38%" align="center" valign="middle">
+      <img src="https://github.com/komal-k2005.png" width="220" alt="Komal Kathawade"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🌸-Komal_Kathawade-FF6B9D?style=for-the-badge&labelColor=0D1117"/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/200w.gif" width="80" alt="Data"/>
-      <br/><b>📊 Data Scientist</b><br/>ML · Analytics · Insights
-    </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/200w.gif" width="80" alt="AI"/>
-      <br/><b>🤖 AI Engineer</b><br/>Intelligent Systems
+    <td width="62%" valign="middle" align="left">
+
+**🎓** B.Tech Computer Engineering · 3rd Year  
+**📊** Aspiring Data Scientist & ML Enthusiast  
+**💻** Java · Python · React Developer  
+**🌱** Leveling up DSA & Problem Solving  
+**🎯** Building tech that makes life simpler  
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Collaborate-00F5FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/FOCUS-Data%20Science%20%26%20AI-FF6B9D?style=for-the-badge&labelColor=0D1117"/>
+
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp&perline=8" />
+  <a href="https://www.linkedin.com/in/komal-kathwade/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hellokomalk@gmail.com"><img src="https://img.shields.io/badge/Email-hellokomalk@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/komal-k2005"><img src="https://img.shields.io/badge/GitHub-komal--k2005-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=komal-k2005&label=Visitors&color=FF6B9D&style=flat-square" alt="views"/>
 </p>
 
-### 🌐 Web & UI
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,php&perline=8" />
-</p>
+<img src="https://user-images.githubusercontent.com/73033106/103554262-25648b00-4ea7-11eb-3a5e9737971a.gif" width="100%" alt="divider"/>
 
-### 🗄️ Data & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&perline=8" />
-</p>
+<!-- ═══ ABOUT ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&width=1000&color=0:FF6B9D,100:7C3AED&text=✨%20About%20Me&fontSize=24&fontColor=ffffff&animation=blinking" alt="About"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=800&color=7C3AED&center=true&width=600&lines=Always+learning+something+new...;Open+to+collaboration+on+ML+%26+Web+projects" />
-</p>
+<br/><br/>
 
----
+<table align="center" width="95%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWV0aG9kZGVsX2lkX2dpcHMiLCJnaWQiOiJ2aW9sZXRncmVlbmJsb29kZmxvd2VyIiwicmFuZG9tIjoiMSJ9/giphy.gif" width="110" alt="Code"/>
+      <br/><b>💻 Developer</b><br/><sub>Scalable apps with Java & Python</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/ua7VlAZe3yqUKBOeHY/giphy.gif" width="110" alt="Data"/>
+      <br/><b>📊 Data Scientist</b><br/><sub>ML models & meaningful insights</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/5VKbvrjxpTJSXTLiZ2/giphy.gif" width="110" alt="AI"/>
+      <br/><b>🤖 AI Explorer</b><br/><sub>Intelligent systems of tomorrow</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/26tn33QPZ754QkPW/giphy.gif" width="110" alt="Growth"/>
+      <br/><b>🚀 Growth Mindset</b><br/><sub>Learn · Build · Repeat</sub>
+    </td>
+  </tr>
+</table>
 
-## 📊 GitHub Analytics
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komal-k2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=c9d1d9&border_radius=12" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal-k2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_radius=12" height="165" alt="Top Languages"/>
-</p>
+> *"Code with Logic. Build with Purpose. Grow with Consistency."*
+>
+> Turning **Data → Insights** · **Ideas → Reality** · **Learning → Innovation**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komal-k2005&theme=tokyonight&hide_border=true&background=0D1117&border_radius=12&ring=58A6FF&fire=7C3AED&currStreakLabel=58A6FF" height="170" alt="Streak"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73033106/103554262-25648b00-4ea7-11eb-3a5e9737971a.gif" width="100%" alt="divider"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=komal-k2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" alt="Trophies"/>
-</p>
+<!-- ═══ TECH STACK ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&width=1000&color=0:7C3AED,100:00F5FF&text=🛠️%20Tech%20Arsenal&fontSize=24&fontColor=ffffff&animation=scaleIn" alt="Tech"/>
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=komal-k2005&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&height=280" alt="Activity Graph"/>
-</p>
-
----
-
-## 🌟 Current Focus
+<br/><br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_Science-Projects-58A6FF?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-Models-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Full--Stack-Web_Apps-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Competitive-Programming-FF6B6B?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</p>
-
----
-
-## 🏆 Strengths
-
-| 🌱 Continuous Learner | 💡 Analytical Thinker | 🤝 Team Player | 🚀 Future AI Engineer |
-|:---:|:---:|:---:|:---:|
-
----
-
-## ✨ Personal Branding
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20with%20Logic.%20Build%20with%20Purpose.%20Grow%20with%20Consistency.&author=Komal%20Kathawade" alt="Quote"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css,react,tailwind,php,mysql,git,github,vscode&theme=dark&perline=6" alt="Skills"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=58A6FF&center=true&width=500&lines=%F0%9F%9A%80+Learning+Today.+Innovating+Tomorrow.;Thanks+for+visiting!+%E2%AD%90+Star+a+repo+if+you+like+my+work." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2500&pause=600&color=FF6B9D&center=true&width=650&lines=const+passion+%3D+%22Data+Science+%2B+AI%22%3B;while(alive)+%7B+learn()%3B+build()%3B+ship()%3B+%7D" alt="Code quote"/>
 </p>
 
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:7C3AED,100:0D1117&height=120&section=footer"/>
+<img src="https://user-images.githubusercontent.com/73033106/103554262-25648b00-4ea7-11eb-3a5e9737971a.gif" width="100%" alt="divider"/>
+
+<!-- ═══ GITHUB DASHBOARD (Bento) ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&width=1000&color=0:00F5FF,100:FF6B9D&text=📊%20GitHub%20Dashboard&fontSize=24&fontColor=ffffff" alt="Dashboard"/>
+
+<br/><br/>
+
+<table align="center" width="95%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=komal-k2005&show_icons=true&theme=radical&hide_border=false&border_color=FF6B9D&bg_color=0D1117&title_color=00F5FF&icon_color=FF6B9D&text_color=FFFFFF&border_radius=16&rank_icon=github" height="180" alt="Stats"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal-k2005&layout=donut-vertical&theme=radical&hide_border=false&border_color=7C3AED&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&border_radius=16" height="180" alt="Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=komal-k2005&theme=radical&hide_border=false&border=7C3AED&background=0D1117&ring=FF6B9D&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border_radius=16" height="175" alt="Streak"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=komal-k2005&theme=radical" width="100%" alt="Profile details"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=komal-k2005&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4&rank=SECRET,SSS,SS,S" width="95%" alt="Trophies"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73033106/103554262-25648b00-4ea7-11eb-3a5e9737971a.gif" width="100%" alt="divider"/>
+
+<!-- ═══ ACTIVITY ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&width=1000&color=0:FF6B9D,100:7C3AED&text=📈%20Contribution%20Pulse&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Activity"/>
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=komal-k2005&custom_title=Komal's%20Contribution%20Graph&bg_color=0D1117&color=FF6B9D&line=7C3AED&point=00F5FF&area=true&area_color=7C3AED&title_color=00F5FF&curve=catmullrom&height=300&hide_border=false&border_color=FF6B9D" alt="Activity graph"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/komal-k2005/komal-k2005/output/snake.svg" alt="Contribution snake" width="100%"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73033106/103554262-25648b00-4ea7-11eb-3a5e9737971a.gif" width="100%" alt="divider"/>
+
+<!-- ═══ FOCUS & ROADMAP ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&width=1000&color=0:7C3AED,100:FF6B9D&text=🌟%20What%20I'm%20Building%20Now&fontSize=24&fontColor=ffffff" alt="Focus"/>
+
+<br/><br/>
+
+<table align="center" width="90%">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📊-Data_Science_Projects-0D1117?style=for-the-badge&logo=googlecolab&logoColor=FF6B9D"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🧠-Machine_Learning_Models-0D1117?style=for-the-badge&logo=pytorch&logoColor=7C3AED"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/☕-Java_Backend-0D1117?style=for-the-badge&logo=spring&logoColor=00F5FF"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🌐-Full_Stack_Web_Apps-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/⚡-Competitive_Programming-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🤖-AI_%26_Deep_Learning-0D1117?style=for-the-badge&logo=openai&logoColor=00F5FF"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<details>
+<summary><b>🗺️ My Learning Roadmap</b></summary>
+<br/>
+
+| Phase | Goals |
+|:-----:|:------|
+| **Now** | DSA · ML fundamentals · Java backend |
+| **Next** | Deploy ML models · System design basics |
+| **Future** | AI Engineer · Research-driven projects |
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73033106/103554262-25648b00-4ea7-11eb-3a5e9737971a.gif" width="100%" alt="divider"/>
+
+<!-- ═══ STRENGTHS ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&width=1000&color=0:00F5FF,100:7C3AED&text=🏆%20Core%20Strengths&fontSize=24&fontColor=ffffff" alt="Strengths"/>
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌱-Continuous_Learner-FF6B9D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/💡-Analytical_Thinker-7C3AED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🤝-Team_Player-00F5FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🎯-Problem_Solver-FF6B9D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/✨-Creative_Builder-7C3AED?style=flat-square"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117&border=true&quote=Learning%20Today.%20Innovating%20Tomorrow.&author=Komal%20Kathawade" alt="Quote"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=00F5FF&center=true&width=550&lines=Thanks+for+stopping+by+%F0%9F%92%9C;Star+a+repo+%E2%AD%90+if+you+like+my+work!;Let's+build+something+amazing+together+%F0%9F%9A%80" alt="Footer typing"/>
+</p>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:7C3AED,100:0D1117&height=140&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Komal&fontSize=20&fontColor=ffffff&animation=twinkling"/>
