@@ -1,13 +1,9 @@
-<!-- Header -->
+<!-- Header (capsule-render — stable CDN) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=200&section=header&text=Komal%20Kathwade&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20%26%20AI%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=58&descAlign=50"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3800&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey+%F0%9F%91%8B+I'm+Komal+Kathwade;Turning+Data+into+Insights+%F0%9F%93%8A;Turning+Ideas+into+Reality+%F0%9F%9A%80;Java+%7C+Python+%7C+React+Developer;Future+AI+Engineer+%F0%9F%92%A1" alt="Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3800&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey+%F0%9F%91%8B+I'm+Komal+Kathwade;Turning+Data+into+Insights+%F0%9F%93%8A;Turning+Ideas+into+Reality+%F0%9F%9A%80;Java+%7C+Python+%7C+React+Developer;Future+AI+Engineer+%F0%9F%92%A1" alt="Typing"/>
 </h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=komal-k2005&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile views"/>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/komal-kathwade/">
@@ -46,52 +42,57 @@
 
 <br/>
 
-<!-- Snake (needs workflow — see github-profile-snake-workflow.yml) -->
-<img src="https://raw.githubusercontent.com/komal-k2005/komal-k2005/output/snake.svg" alt="snake" width="100%"/>
+---
 
-<img src="https://user-images.githubusercontent.com/73033106/103554262-25648b00-4ea7-11eb-3a5e9737971a.gif" width="100%"/>
-
-<!-- Tech Stack -->
+<!-- Tech Stack (shields.io — always works, no external API) -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css,react,tailwind,php,mysql,git,github,vscode&theme=dark&perline=7" alt="Tech stack"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73033106/103554262-25648b00-4ea7-11eb-3a5e9737971a.gif" width="100%"/>
+---
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats (reliable mirrors — no Heroku) -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komal-k2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_radius=10" height="165" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komal-k2005&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF" height="165" alt="Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal-k2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10" height="165" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=komal-k2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_radius=10&cache_seconds=86400" height="165" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=komal-k2005&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%" alt="Trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=komal-k2005&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&border_radius=10" height="165" alt="GitHub Streak"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73033106/103554262-25648b00-4ea7-11eb-3a5e9737971a.gif" width="100%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal-k2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10&cache_seconds=86400" height="165" alt="Top Languages"/>
+</p>
 
-<!-- Activity -->
+---
+
+<!-- Activity graph -->
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=komal-k2005&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&height=280" alt="Activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=komal-k2005&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&height=280" alt="Contribution Graph"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73033106/103554262-25648b00-4ea7-11eb-3a5e9737971a.gif" width="100%"/>
+---
 
 <!-- Focus -->
 <h2 align="center">🎯 Current Focus</h2>
@@ -109,13 +110,18 @@
 
 <br/>
 
-<!-- Quote -->
+<!-- Quote (plain text — no external API) -->
+<h3 align="center">✨ Personal Branding</h3>
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20with%20Logic.%20Build%20with%20Purpose.%20Grow%20with%20Consistency.&author=Komal%20Kathwade" alt="Quote"/>
+  <i>"Code with Logic. Build with Purpose. Grow with Consistency."</i>
+</p>
+<p align="center">
+  <b>🚀 Learning Today. Innovating Tomorrow.</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&width=480&lines=Learning+Today.+Innovating+Tomorrow.;Thanks+for+visiting!+%E2%AD%90+Star+my+repos+if+you+like+my+work" alt="Footer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&width=480&lines=Thanks+for+visiting!+%E2%AD%90+Star+my+repos+if+you+like+my+work" alt="Footer"/>
 </p>
 
 <br/>
