@@ -34,7 +34,7 @@
     <td align="left" width="65%">
       <h3>👩‍💻 About Me</h3>
       <p>
-        🎓 <b>B.Tech Computer Engineering</b> — 3rd Year Student<br/>
+        🎓 <b>B.Tech Computer Engineering</b> — Final Year Student<br/>
         📊 Passionate about <b>Data Science, ML & AI</b><br/>
         💻 Building apps with <b>Java, Python & React</b><br/>
         🌱 Improving <b>DSA</b> & problem-solving skills<br/>
