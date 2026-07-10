@@ -10,7 +10,7 @@
 **Turning Data into Insights | Turning Ideas into Reality**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/komal-kathwade/">
+  <a href="https://www.linkedin.com/in/komal-kathwade">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/komal-k2005">
@@ -19,16 +19,16 @@
   <a href="mailto:hellokomalk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://leetcode.com/u/komal-k2005/">
+  <a href="https://leetcode.com/u/hellokomal/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://www.hackerrank.com/komal-k2005">
+  <a href="https://www.hackerrank.com/profile/komalkathwade">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
-  <a href="https://www.kaggle.com/komal-k2005">
+  <a href="https://www.kaggle.com/komalkathwade">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
   </a>
-  <a href="https://twitter.com/komal-k2005">
+  <a href="https://x.com/kathawde_komal">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
@@ -49,7 +49,7 @@
       <p>
         🎓 <b>B.Tech Computer Engineering</b> — Final Year Student<br/>
         📊 Passionate about <b>Data Science, Machine Learning & AI</b><br/>
-        💻 Building scalable apps with <b>Spring Boot, React, Node.js & Python</b><br/>
+        💻 Building scalable apps with <b>Spring Boot, React, Node.js & Java</b><br/>
         🧠 Experienced in <b>Prompt Engineering & AI Agent Development</b><br/>
         🔗 Deeply interested in seamless <b>API Integrations</b><br/>
         🌱 Constantly improving <b>DSA</b> on LeetCode & HackerRank<br/>
