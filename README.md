@@ -1,27 +1,14 @@
-
-
-
-6:28 PM
-
-
-
-
-
-
-
-Overview
-
-Review Changes
-
-
-
-
 <!-- Header -->
 <div align="center">
+
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Komal Kathwade!
+
 ### Aspiring Data Scientist · ML & AI · Full-Stack Developer
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3800&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey+%F0%9F%91%8B+I'm+Komal+kathwade;Turning+Data+into+Insights+%F0%9F%93%8A;Turning+Ideas+into+Reality+%F0%9F%9A%80;Java+%7C+Python+%7C+React+Developer;Future+AI+Engineer+%F0%9F%92%A1" alt="Typing"/>
+
 **Turning Data into Insights | Turning Ideas into Reality**
+
 <p align="center">
   <a href="https://www.linkedin.com/in/komal-kathwade/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -46,7 +33,9 @@ Review Changes
   </a>
 </p>
 </div>
+
 <br/>
+
 <!-- Hero -->
 <table align="center">
   <tr>
@@ -71,10 +60,14 @@ Review Changes
     </td>
   </tr>
 </table>
+
 <br/>
+
 ---
+
 <!-- Tech Stack -->
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" /> Tech Stack & Skills</h2>
+
 <p align="center">
   <i><b>Languages</b></i><br/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -85,6 +78,7 @@ Review Changes
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>
+
 <p align="center">
   <i><b>Frameworks & Backend</b></i><br/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
@@ -92,6 +86,7 @@ Review Changes
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
 </p>
+
 <p align="center">
   <i><b>Databases & Tools</b></i><br/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -100,6 +95,7 @@ Review Changes
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
+
 <p align="center">
   <i><b>Specialized Skills</b></i><br/>
   <img src="https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
@@ -107,22 +103,30 @@ Review Changes
   <img src="https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logo=probot&logoColor=white" alt="Prompt Engineering"/>
   <img src="https://img.shields.io/badge/API_Integration-00599C?style=for-the-badge&logo=swagger&logoColor=white" alt="API Integration"/>
 </p>
+
 ---
+
 <!-- GitHub Stats -->
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> GitHub Stats & Activity</h2>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=komal-k2005&theme=tokyonight" height="180" alt="GitHub Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=komal-k2005&theme=tokyonight" height="180" alt="Top Languages"/>
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=komal-k2005&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&border_radius=10" height="170" alt="GitHub Streak"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=komal-k2005&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&height=280" alt="Contribution Graph"/>
 </p>
+
 ---
+
 <!-- Focus -->
 <h2 align="center">🎯 Current Focus</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Science-Projects-58A6FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Machine_Learning-Models-1F6FEB?style=for-the-badge"/>
@@ -133,21 +137,27 @@ Review Changes
   <img src="https://img.shields.io/badge/DSA-Practice-FF6B6B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI-Engineering-7C3AED?style=for-the-badge"/>
 </p>
+
 <br/>
+
 <h3 align="center">✨ Personal Branding</h3>
+
 <p align="center">
   <i>"Code with Logic. Build with Purpose. Grow with Consistency."</i>
 </p>
 <p align="center">
   <b>🚀 Learning Today. Innovating Tomorrow.</b>
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&width=550&lines=Thanks+for+visiting!+%E2%AD%90+Star+my+repos+if+you+like+my+work" alt="Footer"/>
 </p>
+
 <div align="center">
+
 ---
 **Made with ❤️ by Komal** · *Learning Today. Innovating Tomorrow.*
 <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" />
-</div>
 
+</div>
