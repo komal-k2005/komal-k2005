@@ -35,8 +35,8 @@
 
 🎓 <b>B.Tech Computer Engineering</b> — Final Year Student<br/>
 📊 Passionate about <b>Data Science, Machine Learning & AI</b><br/>
-💻 Building scalable apps with <b>Java, Spring Boot, React, Node.js & Python</b><br/>
-🧠 Experienced in <b>Prompt Engineering & AI Agent Development</b><br/>
+💻 Building fullstack apps with <b>Java, Spring Boot, Spring Security, React & MySQL</b><br/>
+🧠 Integrating AI into backend systems with <b>Spring AI, Ollama & the OpenAI API</b><br/>
 🔗 Deeply interested in seamless <b>API Integrations</b><br/>
 🌱 Constantly improving <b>DSA</b> on LeetCode & HackerRank<br/>
 🎯 <b>Mission:</b> Create tech that simplifies real lives
@@ -69,24 +69,40 @@
 </p>
 
 <p align="center">
-<i><b>Frameworks & Backend</b></i><br/>
+<i><b>Spring Boot Fullstack Ecosystem</b></i><br/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+</p>
+
+<p align="center">
+<i><b>Frontend & Runtime</b></i><br/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
 </p>
 
 <p align="center">
 <i><b>Databases & Tools</b></i><br/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/JsonPowerDB-D93025?style=for-the-badge&logo=json&logoColor=white" alt="JsonPowerDB"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 <p align="center">
-<i><b>Specialized Skills</b></i><br/>
+<i><b>AI in Spring Boot</b></i><br/>
+<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
 <img src="https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
 <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logo=probot&logoColor=white" alt="Prompt Engineering"/>
@@ -134,12 +150,12 @@
 <h2 align="center">🎯 Current Focus</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Data_Science-Projects-58A6FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-Models-1F6FEB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-Fullstack-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_AI-Integration-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Full--Stack-Web_Apps-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Data_Science-Projects-58A6FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DSA-Practice-FF6B6B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI-Engineering-7C3AED?style=for-the-badge"/>
 </p>
