@@ -1,341 +1,431 @@
+<!-- ========================================================= -->
+
+<!--                 KOMAL KATHWADE — GITHUB README            -->
+
+<!-- ========================================================= -->
+
+<!-- ====================== ANIMATED HEADER ====================== -->
+
 <div align="center">
 
-# 👋 Hi, I'm **Komal Kathwade**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=KOMAL%20KATHWADE&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-### ☕ Java Full Stack Developer | Spring Boot | React | AI
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer+%7C+AI;Spring+Boot+%7C+React+%7C+MySQL;Building+Smart+%26+Scalable+Applications;Turning+Ideas+Into+Working+Software" alt="Animated Typing"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer+%E2%98%95;Spring+Boot+%2B+React+Developer+%F0%9F%9A%80;Building+AI-Powered+Applications+%F0%9F%A4%96;Exploring+Spring+AI+%26+OpenAI+APIs;Learning+DSA+Every+Day+%F0%9F%A7%A0;Turning+Ideas+Into+Working+Software+%E2%9A%A1" alt="Typing Animation"/>
+<br/>
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=komal-k2005&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
-<img src="https://img.shields.io/badge/Java-Full%20Stack-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/AI-Integration-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+</div>
 
-<br><br>
+---
+
+<!-- ====================== SOCIAL LINKS ====================== -->
+
+<div align="center">
 
 <a href="https://github.com/komal-k2005">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/komal-kathwade/">
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:hellokomalk@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/komal-k2005/">
+<a href="https://leetcode.com/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.hackerrank.com/komal-k2005">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<a href="mailto:komalkathwade@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br/>
 
-<h2 align="center">👩‍💻 About Me</h2>
+<!-- ====================== ABOUT ME ====================== -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=600&color=00C9A7&center=true&vCenter=true&width=500&lines=%3C+About+Me+%2F%3E;Developer+Mode%3A+ON;Always+Learning+%26+Building" />
+
+</div>
 
 <table>
 <tr>
+<td width="58%" valign="top">
 
-<td width="60%" valign="middle">
-
-<h3>🚀 Developer in Progress</h3>
-
-🎓 <b>Final Year B.Tech Computer Engineering Student</b>
-
-<br><br>
-
-☕ Focused on <b>Java Full Stack Development</b>
-
-<br><br>
-
-⚙️ Building applications using <b>Java, Spring Boot & React</b>
-
-<br><br>
-
-🤖 Exploring <b>Spring AI, OpenAI APIs & Ollama</b>
-
-<br><br>
-
-🔐 Interested in <b>REST APIs, Authentication & Backend Development</b>
-
-<br><br>
-
-🧠 Practicing <b>DSA & Problem Solving</b>
-
-<br><br>
-
-🌱 Learning by <b>building real-world applications</b>
-
-<br><br>
-
-🎯 Goal: <b>Build clean, practical and scalable software</b>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Java%20Developer-Active-orange?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/India-blue?style=flat-square"/>
-
-</td>
-
-<td width="40%" align="center">
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="350" alt="Coding Animation"/>
-</div>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=350&lines=Code+%E2%86%92+Debug+%E2%86%92+Learn;Build+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Developer Animation"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<h2 align="center">⚡ Developer Mode</h2>
-
-<div align="center">
+### 👋 Hello, I'm Komal
 
 ```java
-public class Komal {
+public class Developer {
 
-    String role = "Java Full Stack Developer + AI";
+    String name = "Komal Kathwade";
+    String role = "Java Full Stack Developer";
+    String focus = "AI + Full Stack Development";
 
-    String[] stack = {
+    String[] backend = {
         "Java",
         "Spring Boot",
+        "Spring MVC",
+        "REST APIs"
+    };
+
+    String[] frontend = {
         "React",
-        "MySQL",
-        "REST APIs",
-        "Spring AI"
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Tailwind"
     };
 
-    String[] currentlyLearning = {
-        "DSA",
-        "System Design",
-        "AI Integration"
+    String[] database = {
+        "MySQL"
     };
 
-    public void developerLife() {
+    String[] ai = {
+        "Spring AI",
+        "Ollama",
+        "OpenAI API",
+        "Prompt Engineering"
+    };
 
-        while (true) {
-
-            learn();
-            build();
-            solveProblems();
-            improve();
-
-        }
+    public void build() {
+        learn();
+        code();
+        solve();
+        repeat();
     }
 }
 ```
 
-</div>
-
----
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<h3 align="center">☕ Languages</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-<h3 align="center">⚙️ Frameworks & Backend</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
-</p>
-
-<h3 align="center">🗄️ Database & Development Tools</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-</p>
-
-<h3 align="center">🤖 AI & APIs</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
-</p>
-
----
-
-<h2 align="center">🎯 Current Focus</h2>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="220">
-<h3>☕ Java</h3>
-
-Core Java<br>
-OOP<br>
-Collections<br>
-Problem Solving
-
 </td>
-<td align="center" width="220">
-<h3>⚙️ Spring Boot</h3>
 
-REST APIs<br>
-Authentication<br>
-Backend Architecture<br>
-MySQL
+<td width="42%" align="center">
 
-</td>
-<td align="center" width="220">
-<h3>⚛️ React</h3>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/animated/gifs/coding.gif" width="360"/>
 
-Components<br>
-API Integration<br>
-State Management<br>
-UI Development
+<br/><br/>
 
-</td>
-<td align="center" width="220">
-<h3>🤖 AI</h3>
-
-Spring AI<br>
-OpenAI API<br>
-Ollama<br>
-Prompt Engineering
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2200&pause=500&color=F7971E&center=true&vCenter=true&width=380&lines=Writing+Clean+Java+Code;Building+Spring+Boot+APIs;Creating+React+Interfaces;Integrating+AI+Into+Apps;Debugging+%3E+Giving+Up" />
 
 </td>
 </tr>
 </table>
+
+---
+
+<!-- ====================== CURRENT FOCUS ====================== -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2600&pause=700&color=8A2BE2&center=true&vCenter=true&width=650&lines=%3C+Current+Focus+%2F%3E;What+I'm+Building+Right+Now;Java+%2B+Spring+Boot+%2B+AI" />
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ☕ Java
+
+<img src="https://skillicons.dev/icons?i=java" width="70"/>
+
+<br/>
+
+`OOP` • `Collections`
+`DSA` • `Problem Solving`
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=spring" width="70"/>
+
+<br/>
+
+`Spring Boot`
+`REST APIs` • `MVC`
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚛️ Frontend
+
+<img src="https://skillicons.dev/icons?i=react" width="70"/>
+
+<br/>
+
+`React` • `JavaScript`
+`Tailwind` • `Thymeleaf`
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖 AI
+
+<img src="https://skillicons.dev/icons?i=ai" width="70"/>
+
+<br/>
+
+`Spring AI`
+`Ollama` • `OpenAI API`
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ====================== ANIMATED TECH STACK ====================== -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=600&color=36BCF7&center=true&vCenter=true&width=600&lines=%3C+Tech+Stack+%2F%3E;Tools+I+Use+To+Build;Code+%7C+Create+%7C+Deploy" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,mysql,git,github,postman,idea&perline=6" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1800&pause=400&color=00C9A7&center=true&vCenter=true&width=800&lines=Java+%E2%86%92+Spring+Boot+%E2%86%92+REST+APIs;React+%E2%86%92+Modern+UI+%E2%86%92+Responsive+Design;MySQL+%E2%86%92+Data+%E2%86%92+Backend+Integration;Spring+AI+%E2%86%92+LLMs+%E2%86%92+Intelligent+Applications" />
+
 </div>
 
 ---
 
-<h2 align="center">📊 GitHub Stats & Activity</h2>
+<!-- ====================== AI DEVELOPMENT ====================== -->
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=komal-k2005&theme=tokyonight" height="180" alt="GitHub Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=komal-k2005&theme=tokyonight" height="180" alt="Top Languages"/>
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2400&pause=600&color=FF6B6B&center=true&vCenter=true&width=650&lines=%3C+AI+Development+%2F%3E;Making+Applications+Smarter;AI+%2B+Java+%2B+Spring+Boot" />
 
-<img src="https://streak-stats.demolab.com/?user=komal-k2005&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF" height="180" alt="GitHub Streak"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=komal-k2005&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&height=280" alt="Contribution Graph"/>
 </div>
 
----
+<table>
+<tr>
+<td align="center" width="33%">
 
-<h2 align="center">🧠 Problem Solving</h2>
+🤖
 
-<div align="center">
-<a href="https://leetcode.com/u/komal-k2005/">
-<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://www.hackerrank.com/komal-k2005">
-<img src="https://img.shields.io/badge/HackerRank-Practice-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+### Spring AI
 
-<br><br>
+AI integration inside
+Spring Boot applications
 
-<img src="https://img.shields.io/badge/Arrays-Practice-58A6FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/HashMap-Practice-58A6FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/HashSet-Practice-58A6FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Strings-Practice-58A6FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Two%20Pointers-Practice-58A6FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sliding%20Window-Practice-58A6FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/XOR-Practice-58A6FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/DP-Basics-58A6FF?style=flat-square"/>
-</div>
+</td>
 
----
+<td align="center" width="33%">
 
-<h2 align="center">🌱 Currently Learning</h2>
+🧠
 
-<div align="center">
-<img src="https://img.shields.io/badge/DSA-Learning-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-Improving-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20APIs-Building-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Authentication-Learning-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React-Improving-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Spring%20AI-Exploring-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI%20API-Exploring-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-Exploring-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Design-Learning-58A6FF?style=for-the-badge"/>
-</div>
+### Prompt Engineering
 
----
+Designing structured
+AI prompts & workflows
 
-<h2 align="center">💡 Development Philosophy</h2>
+</td>
+
+<td align="center" width="33%">
+
+🔌
+
+### API Integration
+
+Connecting applications
+with AI services
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-<h3>Build → Break → Debug → Learn → Improve</h3>
 
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Learning+Today+%F0%9F%8C%B1;Building+Tomorrow+%F0%9F%9A%80;One+Problem+at+a+Time+%F0%9F%A7%A0;One+Project+at+a+Time+%E2%9A%A1;Always+Improving+%F0%9F%94%A5" alt="Developer Animation"/>
-
-<br><br>
-
-<i>"Build with Logic. Code with Purpose. Grow with Consistency."</i>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2000&pause=500&color=F7971E&center=true&vCenter=true&width=750&lines=Spring+AI+%7C+Ollama+%7C+OpenAI+API;REST+API+Integration;AI-Powered+Java+Applications;Experimenting+%E2%80%A2+Learning+%E2%80%A2+Building" />
 
 </div>
 
 ---
 
-<h2 align="center">🤝 Let's Connect</h2>
+<!-- ====================== DEVELOPER TERMINAL ====================== -->
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=600&color=00FF9C&center=true&vCenter=true&width=650&lines=%24+developer+--status;Initializing+Developer+Mode...;Loading+Java...+%E2%9C%93;Loading+Spring+Boot...+%E2%9C%93;Loading+AI+Modules...+%E2%9C%93;System+Ready+%F0%9F%9A%80" />
+
+</div>
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                    KOMAL.DEV TERMINAL                       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  > role        : Java Full Stack Developer                  │
+│  > backend     : Spring Boot / REST APIs                    │
+│  > frontend    : React / JavaScript                         │
+│  > database    : MySQL                                     │
+│  > ai          : Spring AI / Ollama / OpenAI API            │
+│  > tools       : Git / GitHub / Postman / IntelliJ           │
+│                                                             │
+│  > status      : Learning → Building → Improving            │
+│                                                             │
+│  ██████████████████████████████████████████████████ 100%    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<!-- ====================== DSA ====================== -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2300&pause=500&color=FFA116&center=true&vCenter=true&width=600&lines=%3C+DSA+%2F%3E;Problem+Solving+Mode+ON;Think+%E2%86%92+Code+%E2%86%92+Optimize" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Java-DSA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1800&pause=450&color=36BCF7&center=true&vCenter=true&width=700&lines=Arrays+%7C+Strings+%7C+HashMap+%7C+HashSet;Two+Pointers+%7C+Sliding+Window;Sorting+%7C+Binary+Search+%7C+XOR;Dynamic+Programming+%7C+Trees;Daily+Practice+%7C+Continuous+Improvement" />
+
+</div>
+
+---
+
+<!-- ====================== GITHUB ANALYTICS ====================== -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=600&color=6C63FF&center=true&vCenter=true&width=650&lines=%3C+GitHub+Analytics+%2F%3E;Code+Activity+%26+Consistency;Building+Every+Day" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=komal-k2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal-k2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=komal-k2005&theme=tokyonight&hide_border=true" width="70%"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=00C9A7&center=true&vCenter=true&width=700&lines=Every+commit+is+a+step+forward;Consistency+%3E+Perfection;Keep+Learning.+Keep+Building." />
+
+</div>
+
+---
+
+<!-- ====================== GITHUB CONTRIBUTION ====================== -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2300&pause=600&color=00C9A7&center=true&vCenter=true&width=650&lines=%3C+Contribution+Mode+%2F%3E;Push+Code+%E2%86%92+Solve+Problems+%E2%86%92+Repeat;One+Day+At+A+Time+%F0%9F%9A%80" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=komal-k2005&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+<!-- ====================== LEARNING ====================== -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2400&pause=600&color=F7971E&center=true&vCenter=true&width=650&lines=%3C+Learning+Journey+%2F%3E;Currently+Learning;Always+Exploring+New+Technologies" />
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+☕
+**Advanced Java**
+
+</td>
+
+<td align="center" width="25%">
+
+⚙️
+**Spring Boot**
+
+</td>
+
+<td align="center" width="25%">
+
+🤖
+**AI Integration**
+
+</td>
+
+<td align="center" width="25%">
+
+🧩
+**DSA & Interviews**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1900&pause=400&color=36BCF7&center=true&vCenter=true&width=800&lines=Learning+from+documentation+%E2%80%A2+projects+%E2%80%A2+practice;Improving+problem+solving+every+day;Preparing+for+real-world+software+development" />
+
+</div>
+
+---
+
+<!-- ====================== GITHUB CONNECT ====================== -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2300&pause=600&color=8A2BE2&center=true&vCenter=true&width=650&lines=%3C+Let's+Connect+%2F%3E;Open+To+Learning+%26+Collaboration;Let's+Build+Something+Useful" />
+
+<br/><br/>
+
 <a href="https://github.com/komal-k2005">
-<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-View_My_Code-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://www.linkedin.com/in/komal-kathwade/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="mailto:hellokomalk@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<a href="mailto:komalkathwade@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
-<a href="https://leetcode.com/u/komal-k2005/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+
 </div>
 
-<br>
+---
+
+<!-- ====================== ANIMATED FOOTER ====================== -->
 
 <div align="center">
-⭐ Thanks for visiting my profile!
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Keep+Coding+%E2%98%95;Keep+Learning+%F0%9F%A7%A0;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%8C%B1" alt="Footer Animation"/>
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=600&color=36BCF7&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Keep+Coding+%7C+Keep+Learning+%7C+Keep+Growing;See+you+in+the+next+commit+%F0%9F%9A%80" />
 
-☕ Code • 🤖 AI • 🚀 Build • 🧠 Learn
+<br/><br/>
 
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
+
+<!-- ========================================================= -->
+
+<!--                    END OF README                           -->
+
+<!-- ========================================================= -->
