@@ -7,12 +7,13 @@
 
 # 👋 Hi, I'm **Komal Kathwade**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=500&color=2EA5F7&center=true&vCenter=true&width=550&lines=Java+Full+Stack+Developer+•+Spring+Boot+•+React+•+AI" alt="Typing Animation">
-</p>
+<img src="https://img.shields.io/badge/Java_Full_Stack_Developer-blue?style=for-the-badge&logo=java&logoColor=white" alt="Java Developer">
+<img src="https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/AI-purple?style=for-the-badge&logo=openai&logoColor=white" alt="AI">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=16&duration=2000&pause=1000&color=6B7280&center=true&vCenter=true&width=480&lines=Building+practical+applications+•+Learning+every+day+•+Solving+problems" alt="Subtitle Animation">
+  <em>Building practical applications • Learning every day • Solving problems</em>
 </p>
 
 <p align="center">
@@ -28,10 +29,6 @@
   <a href="mailto:EMAIL_ADDRESS">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=1500&pause=1000&color=10B981&center=true&vCenter=true&width=380&lines=while(alive)+%7B+learn();+build();+solve();+%7D" alt="Code Animation">
 </p>
 
 </div>
@@ -125,16 +122,8 @@ public class Komal {
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=16&duration=2000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=380&lines=LeetCode+%C2%B7+HackerRank+%C2%B7+DSA+%C2%B7+Problem+Solving" alt="Platforms Animation">
-</p>
-
-<p align="center">
-  <a href="LEETCODE_URL">
-    <img src="https://img.shields.io/badge/Solve-Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-  <a href="HACKERRANK_URL">
-    <img src="https://img.shields.io/badge/Practice-Coding-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank">
-  </a>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank">
 </p>
 
 </div>
@@ -184,7 +173,7 @@ public class Komal {
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=2000&pause=1500&color=10B981&center=true&vCenter=true&width=420&lines=Let's+build+something+useful+together.+🚀" alt="Call to Action">
+  <em>Let's build something useful together. 🚀</em>
 </p>
 
 </div>
@@ -194,11 +183,11 @@ public class Komal {
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&duration=1500&pause=1000&color=F59E0B&center=true&vCenter=true&width=350&lines=Thanks+for+visiting+my+profile!+⭐" alt="Thank You Animation">
+  <img src="https://komarev.com/ghpvc/?username=komal-k2005&style=for-the-badge&color=0891b2" alt="Profile Views">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=komal-k2005&style=for-the-badge&color=0891b2" alt="Profile Views">
+  <em>Thanks for visiting my profile! ⭐</em>
 </p>
 
 </div>
