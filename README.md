@@ -3,9 +3,9 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Komal Kathwade!
 
-### Aspiring Data Scientist · ML & AI · Full-Stack Developer
+### Full-Stack Java Developer · Spring Boot · AI Integration
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3800&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey+%F0%9F%91%8B+I'm+Komal+Kathwade;Turning+Data+into+Insights+%F0%9F%93%8A;Turning+Ideas+into+Reality+%F0%9F%9A%80;Java+%7C+Python+%7C+React+Developer;Future+AI+Engineer+%F0%9F%92%A1" alt="Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3800&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey+%F0%9F%91%8B+I'm+Komal+Kathwade;Fullstack+Java+%7C+Spring+Boot+%7C+React;Bringing+AI+Into+Real+Applications+%F0%9F%A4%96;Building+Clean+APIs%2C+End+to+End" alt="Typing"/>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/komal-kathwade/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -34,12 +34,11 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Cool" width="25"/> About Me</h2>
 
 🎓 <b>B.Tech Computer Engineering</b> — Final Year Student<br/>
-📊 Passionate about <b>Data Science, Machine Learning & AI</b><br/>
-💻 Building fullstack apps with <b>Java, Spring Boot, Spring Security, React & MySQL</b><br/>
+💻 Building fullstack apps with <b>Java, Spring Boot, Python, PHP, Node.js, React & MySQL/MongoDB</b><br/>
 🧠 Integrating AI into backend systems with <b>Spring AI, Ollama & the OpenAI API</b><br/>
 🔗 Deeply interested in seamless <b>API Integrations</b><br/>
 🌱 Constantly improving <b>DSA</b> on LeetCode & HackerRank<br/>
-🎯 <b>Mission:</b> Create tech that simplifies real lives
+🎯 <b>Goal:</b> Become a Fullstack Java Developer with AI expertise
 
 <br/><br/>
 
@@ -62,10 +61,9 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>
 
 <p align="center">
@@ -81,7 +79,7 @@
 </p>
 
 <p align="center">
-<i><b>Frontend & Runtime</b></i><br/>
+<i><b>Frontend</b></i><br/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf"/>
@@ -155,7 +153,6 @@
 <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Data_Science-Projects-58A6FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DSA-Practice-FF6B6B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI-Engineering-7C3AED?style=for-the-badge"/>
 </p>
