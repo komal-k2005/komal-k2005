@@ -6,31 +6,6 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<style>
-  @keyframes float {
-    0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-  }
-  @keyframes pulse {
-    0%, 100% { box-shadow: 0 0 0 0 rgba(46, 165, 247, 0.7); }
-    50% { box-shadow: 0 0 0 10px rgba(46, 165, 247, 0); }
-  }
-  @keyframes spin {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-  }
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-  img {
-    transition: transform 0.3s ease;
-  }
-  img:hover {
-    transform: scale(1.05);
-  }
-</style>
-
 <div align="center">
 
 <!-- Animated Header -->
@@ -40,9 +15,7 @@
 
 <!-- Animated Profile Image -->
 <div align="center">
-  <div style="position: relative; display: inline-block;">
-    <img src="https://camo.githubusercontent.com/7356100643164729c570c8323c2c5335c6a1a6b7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d5977576347564d4472366f3275344573464d4478566a4477356a4f544c422f67697068792e676966" alt="Coding Animation" width="200" height="200" style="border-radius: 50%; border: 4px solid #2EA5F7; animation: float 3s ease-in-out infinite;">
-  </div>
+  <img src="https://camo.githubusercontent.com/7356100643164729c570c8323c2c5335c6a1a6b7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d5977576347564d4472366f3275344573464d4478566a4477356a4f544c422f67697068792e676966" alt="Coding Animation" width="200" height="200">
 </div>
 
 <!-- Animated Profile Banner -->
@@ -60,22 +33,22 @@
 <!-- Animated Social Badges -->
 <div>
   <a href="GITHUB_URL">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&animation=fadeIn" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&animation=fadeIn" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="LEETCODE_URL">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&animation=fadeIn" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
   <a href="KAGGLE_URL">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&animation=fadeIn" alt="Kaggle">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
   <a href="HACKERRANK_URL">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&animation=fadeIn" alt="HackerRank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank">
   </a>
   <a href="mailto:EMAIL_ADDRESS">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&animation=fadeIn" alt="Email">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
@@ -116,34 +89,34 @@
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&animation=rotate)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white&animation=rotate)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white&animation=rotate)
-![REST API](https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=fastapi&logoColor=white&animation=rotate)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=fastapi&logoColor=white)
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&animation=rotate)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&animation=rotate)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&animation=rotate)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&animation=rotate)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&animation=rotate)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white&animation=rotate)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 
 ### AI
 
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white&animation=rotate)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white&animation=rotate)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white&animation=rotate)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square&animation=rotate)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square)
 
 ### Database & Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&animation=rotate)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&animation=rotate)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&animation=rotate)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&animation=rotate)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white&animation=rotate)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
 ---
 
@@ -152,33 +125,35 @@
 
 <!-- Animated Code Block -->
 <div align="center">
-  <pre><code>
-<span style="color: #C792EA;">public class</span> <span style="color: #FFCB6B;">Komal</span> {
 
-    <span style="color: #C792EA;">String</span> role = <span style="color: #C3E88D;">"Java Full Stack Developer + AI"</span>;
+```java
+public class Komal {
 
-    <span style="color: #C792EA;">String[]</span> building = {
-        <span style="color: #C3E88D;">"Spring Boot Applications"</span>,
-        <span style="color: #C3E88D;">"React Interfaces"</span>,
-        <span style="color: #C3E88D;">"REST APIs"</span>,
-        <span style="color: #C3E88D;">"AI-powered Features"</span>
+    String role = "Java Full Stack Developer + AI";
+
+    String[] building = {
+        "Spring Boot Applications",
+        "React Interfaces",
+        "REST APIs",
+        "AI-powered Features"
     };
 
-    <span style="color: #C792EA;">String[]</span> learning = {
-        <span style="color: #C3E88D;">"DSA"</span>,
-        <span style="color: #C3E88D;">"System Design"</span>,
-        <span style="color: #C3E88D;">"AI Integration"</span>
+    String[] learning = {
+        "DSA",
+        "System Design",
+        "AI Integration"
     };
 
-    <span style="color: #C792EA;">public void</span> <span style="color: #82AAFF;">keepGoing</span>() {
-        <span style="color: #C792EA;">while</span> (<span style="color: #FF5370;">true</span>) {
-            <span style="color: #82AAFF;">learn</span>();
-            <span style="color: #82AAFF;">build</span>();
-            <span style="color: #82AAFF;">solve</span>();
+    public void keepGoing() {
+        while (true) {
+            learn();
+            build();
+            solve();
         }
     }
 }
-  </code></pre>
+```
+
 </div>
 
 ---
@@ -222,10 +197,10 @@
 <!-- Animated Coding Platform Badges -->
 <div>
   <a href="LEETCODE_URL">
-    <img src="https://img.shields.io/badge/Solve-Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&animation=spin" alt="LeetCode">
+    <img src="https://img.shields.io/badge/Solve-Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
   <a href="HACKERRANK_URL">
-    <img src="https://img.shields.io/badge/Practice-Coding-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&animation=spin" alt="HackerRank">
+    <img src="https://img.shields.io/badge/Practice-Coding-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank">
   </a>
 </div>
 
@@ -260,7 +235,7 @@
 <br>
 
 <!-- Animated Snake -->
-<img src="https://raw.githubusercontent.com/komal-k2005/komal-k2005/main/github-contribution-grid-snake.svg" alt="Snake Animation">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Snake Animation">
 
 </div>
 
@@ -276,22 +251,22 @@
 <!-- Animated Social Links -->
 <div>
   <a href="GITHUB_URL">
-    <img src="https://img.shields.io/badge/GitHub-komal--k2005-181717?style=for-the-badge&logo=github&animation=spin" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-komal--k2005-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&animation=spin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="KAGGLE_URL">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&animation=spin" alt="Kaggle">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle">
   </a>
   <a href="LEETCODE_URL">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&animation=spin" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode">
   </a>
   <a href="HACKERRANK_URL">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&animation=spin" alt="HackerRank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank" alt="HackerRank">
   </a>
   <a href="mailto:EMAIL_ADDRESS">
-    <img src="https://img.shields.io/badge/Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white&animation=spin" alt="Email">
+    <img src="https://img.shields.io/badge/Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
