@@ -7,6 +7,8 @@
 
 # 👋 Hi, I'm **Komal Kathwade**
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation" width="100%">
+
 <img src="https://img.shields.io/badge/Java_Full_Stack_Developer-blue?style=for-the-badge&logo=java&logoColor=white" alt="Java Developer">
 <img src="https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
 <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React">
@@ -42,6 +44,18 @@
 ⚙️ Building with Spring Boot + React  
 🤖 Exploring AI integration with Spring AI & APIs  
 🧠 Strengthening DSA & problem-solving
+
+<div align="center">
+
+```java
+while(alive) {
+    learn();
+    build();
+    solve();
+}
+```
+
+</div>
 
 ---
 
@@ -126,6 +140,10 @@ public class Komal {
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank">
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=komal-k2005&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</p>
+
 </div>
 
 ---
@@ -143,6 +161,10 @@ public class Komal {
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=komal-k2005&theme=radical&hide_border=true" alt="GitHub Streak">
+
+<br>
+
+<img src="https://github.com/komal-k2005/komal-k2005/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 
 </div>
 
