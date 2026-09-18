@@ -164,7 +164,7 @@ public class Komal {
 
 <br>
 
-<img src="https://github.com/komal-k2005/komal-k2005/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+<img src="https://raw.githubusercontent.com/komal-k2005/komal-k2005/main/dist/github-snake.svg" alt="Snake Animation">
 
 </div>
 
