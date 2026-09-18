@@ -4,72 +4,79 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=KOMAL%20KATHWADE&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0F2027,50:2C5364,100:36BCF7&text=Komal%20Kathwade&fontSize=40&fontAlignY=38&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Bringing+AI+Into+Everyday+Apps;Learning+%E2%86%92+Building+%E2%86%92+Shipping" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%E2%80%A2+React+%E2%80%A2+MySQL;Building+AI-Powered+Applications" alt="Typing SVG"/>
 
-<img src="https://komarev.com/ghpvc/?username=komal-k2005&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<br/>
 
-<br/><br/>
-
-<a href="https://github.com/komal-k2005"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/komal-kathwade/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/hellokomal/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://www.hackerrank.com/profile/komalkathwade"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
-<a href="https://www.kaggle.com/komalkathwade"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="mailto:komalkathwade@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/komal-k2005"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=36BCF7"/></a>
+<a href="https://www.linkedin.com/in/komal-kathwade/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=36BCF7"/></a>
+<a href="https://leetcode.com/u/hellokomal/"><img src="https://img.shields.io/badge/LeetCode-161B22?style=flat-square&logo=leetcode&logoColor=36BCF7"/></a>
+<a href="https://www.hackerrank.com/profile/komalkathwade"><img src="https://img.shields.io/badge/HackerRank-161B22?style=flat-square&logo=hackerrank&logoColor=36BCF7"/></a>
+<a href="https://www.kaggle.com/komalkathwade"><img src="https://img.shields.io/badge/Kaggle-161B22?style=flat-square&logo=kaggle&logoColor=36BCF7"/></a>
+<a href="mailto:komalkathwade@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=36BCF7"/></a>
 
 </div>
 
 <br/>
 
-## 👋 About Me
+## 👋 About
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=600&color=00C9A7&center=true&vCenter=true&width=750&lines=Building+clean+APIs+with+Spring+Boot;Designing+responsive+UIs+with+React;Wiring+AI+into+real+applications;Solving+problems+on+LeetCode+%26+HackerRank" alt="About typing"/>
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm a **Java Full Stack Developer** focused on **Spring Boot**, **React**, and bringing **AI** into everyday applications. I like building things that work end-to-end — clean APIs, responsive UIs, and smart features powered by LLMs.
 
 - 🔭 Currently building Spring Boot APIs with AI integration
-- 🌱 Learning advanced Java, system design, and DSA
+- 🌱 Deepening advanced Java, system design, and DSA
 - 🤖 Exploring Spring AI, Ollama, and the OpenAI API
-- 📊 Practicing data & ML fundamentals on Kaggle
-- 📫 Reach me at **komalkathwade@gmail.com**
+- 📊 Learning ML/data fundamentals through Kaggle
+- 📫 **komalkathwade@gmail.com**
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/animated/gifs/coding.gif" width="260"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 🧠 Tech & Interests
+## 🧠 Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,mysql,git,github,postman,idea&perline=6"/>
 
-<br/><br/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1900&pause=450&color=F7971E&center=true&vCenter=true&width=800&lines=Java+%E2%86%92+Spring+Boot+%E2%86%92+REST+APIs;React+%E2%86%92+Modern+UI+%E2%86%92+Responsive+Design;MySQL+%E2%86%92+Data+%E2%86%92+Backend+Integration;Spring+AI+%E2%86%92+LLMs+%E2%86%92+Intelligent+Applications;DSA+%E2%86%92+Problem+Solving+%E2%86%92+Interview+Ready" alt="Interests typing"/>
+<div align="center">
+
+| | |
+|---|---|
+| **Language** | Java |
+| **Backend** | Spring Boot • Spring MVC • REST APIs |
+| **Frontend** | React • JavaScript • HTML/CSS • Tailwind • Thymeleaf |
+| **Database** | MySQL |
+| **AI / ML** | Spring AI • Ollama • OpenAI API • Prompt Engineering |
+| **Tools** | Git • GitHub • Postman • IntelliJ IDEA |
 
 </div>
 
-| Layer | Tools |
-|---|---|
-| **Language** | Java |
-| **Backend** | Spring Boot, Spring MVC, REST APIs |
-| **Frontend** | React, JavaScript, HTML, CSS, Tailwind, Thymeleaf |
-| **Database** | MySQL |
-| **AI / ML** | Spring AI, Ollama, OpenAI API, Prompt Engineering, Kaggle (learning) |
-| **Tools** | Git, GitHub, Postman, IntelliJ IDEA |
-
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=komal-k2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal-k2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=komal-k2005&theme=tokyonight&hide_border=true" width="70%"/>
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=komal-k2005&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
@@ -77,7 +84,7 @@
 
 <br/>
 
-## 🧩 Coding Profiles
+## 🧩 Practice & Profiles
 
 <div align="center">
 
@@ -87,38 +94,26 @@
 
 <div align="center">
 
-<a href="https://leetcode.com/u/hellokomal/"><img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://www.hackerrank.com/profile/komalkathwade"><img src="https://img.shields.io/badge/HackerRank-View_Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
-<a href="https://www.kaggle.com/komalkathwade"><img src="https://img.shields.io/badge/Kaggle-View_Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1900&pause=450&color=36BCF7&center=true&vCenter=true&width=750&lines=Arrays+%7C+Strings+%7C+HashMap+%7C+HashSet;Two+Pointers+%7C+Sliding+Window;Sorting+%7C+Binary+Search+%7C+Recursion;Dynamic+Programming+%7C+Trees;Daily+Practice+%7C+Continuous+Improvement" alt="DSA typing"/>
+<a href="https://leetcode.com/u/hellokomal/"><img src="https://img.shields.io/badge/LeetCode-Profile-161B22?style=flat-square&logo=leetcode&logoColor=FFA116"/></a>
+<a href="https://www.hackerrank.com/profile/komalkathwade"><img src="https://img.shields.io/badge/HackerRank-Profile-161B22?style=flat-square&logo=hackerrank&logoColor=00EA64"/></a>
+<a href="https://www.kaggle.com/komalkathwade"><img src="https://img.shields.io/badge/Kaggle-Profile-161B22?style=flat-square&logo=kaggle&logoColor=20BEFF"/></a>
 
 </div>
 
-> **Note:** LeetCode, HackerRank, and Kaggle don't publish official stat widgets, so the heatmap card above uses a community service (leetcard.jacoblin.cool) that can occasionally be slow or down — if it doesn't render, the badge links next to it always work.
+> LeetCode/HackerRank/Kaggle have no official embeddable stat cards — the heatmap above is a community tool that can occasionally lag; the badges next to it always work as a direct link.
 
 <br/>
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2300&pause=600&color=8A2BE2&center=true&vCenter=true&width=650&lines=Open+To+Learning+%26+Collaboration;Let's+Build+Something+Useful;Thanks+for+visiting+my+profile+%F0%9F%91%8B" alt="Footer typing"/>
+<a href="https://github.com/komal-k2005"><img src="https://img.shields.io/badge/GitHub-View_My_Code-161B22?style=for-the-badge&logo=github&logoColor=36BCF7"/></a>
+<a href="https://www.linkedin.com/in/komal-kathwade/"><img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=36BCF7"/></a>
+<a href="mailto:komalkathwade@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=36BCF7"/></a>
 
 <br/><br/>
 
-<a href="https://github.com/komal-k2005"><img src="https://img.shields.io/badge/GitHub-View_My_Code-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/komal-kathwade/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:komalkathwade@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F2027,50:2C5364,100:36BCF7&animation=fadeIn" width="100%"/>
 
 </div>
-
-<!-- ========================================================= -->
-<!--                    END OF README                           -->
-<!-- ========================================================= -->
