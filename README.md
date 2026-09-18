@@ -137,56 +137,189 @@ public class Komal {
         }
     }
 }
+```
+
 </div>
-<h2 align="center">🛠️ Tech Stack</h2> <h3 align="center">☕ Languages</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=java,js,html,css"/> </p> <h3 align="center">⚙️ Frameworks & Backend</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=spring,react,tailwind"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> </p> <h3 align="center">🗄️ Database & Development Tools</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,idea"/> </p> <h3 align="center">🤖 AI & APIs</h3> <p align="center"> <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/> </p>
-<h2 align="center">🎯 Current Focus</h2> <div align="center"> <table> <tr> <td align="center" width="220"> <h3>☕ Java</h3>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h3 align="center">☕ Languages</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
+</p>
+
+<h3 align="center">⚙️ Frameworks & Backend</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,react,tailwind"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+</p>
+
+<h3 align="center">🗄️ Database & Development Tools</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,git,github,postman,idea"/>
+</p>
+
+<h3 align="center">🤖 AI & APIs</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+</p>
+
+---
+
+<h2 align="center">🎯 Current Focus</h2>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="220">
+<h3>☕ Java</h3>
 
 Core Java<br>
 OOP<br>
 Collections<br>
 Problem Solving
 
-</td> <td align="center" width="220"> <h3>⚙️ Spring Boot</h3>
+</td>
+<td align="center" width="220">
+<h3>⚙️ Spring Boot</h3>
 
 REST APIs<br>
 Authentication<br>
 Backend Architecture<br>
 MySQL
 
-</td> <td align="center" width="220"> <h3>⚛️ React</h3>
+</td>
+<td align="center" width="220">
+<h3>⚛️ React</h3>
 
 Components<br>
 API Integration<br>
 State Management<br>
 UI Development
 
-</td> <td align="center" width="220"> <h3>🤖 AI</h3>
+</td>
+<td align="center" width="220">
+<h3>🤖 AI</h3>
 
 Spring AI<br>
 OpenAI API<br>
 Ollama<br>
 Prompt Engineering
 
-</td> </tr> </table> </div>
-<h2 align="center">📊 GitHub Stats & Activity</h2> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=komal-k2005&theme=tokyonight" height="180" alt="GitHub Stats"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=komal-k2005&theme=tokyonight" height="180" alt="Top Languages"/>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Stats & Activity</h2>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=komal-k2005&theme=tokyonight" height="180" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=komal-k2005&theme=tokyonight" height="180" alt="Top Languages"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=komal-k2005&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF" height="180" alt="GitHub Streak"/> </div>
-<h2 align="center">🧠 Problem Solving</h2> <div align="center"> <a href="https://leetcode.com/u/komal-k2005/"> <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="https://www.hackerrank.com/komal-k2005"> <img src="https://img.shields.io/badge/HackerRank-Practice-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/> </a>
+<img src="https://streak-stats.demolab.com/?user=komal-k2005&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF" height="180" alt="GitHub Streak"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Arrays-Practice-58A6FF?style=flat-square"/> <img src="https://img.shields.io/badge/HashMap-Practice-58A6FF?style=flat-square"/> <img src="https://img.shields.io/badge/HashSet-Practice-58A6FF?style=flat-square"/> <img src="https://img.shields.io/badge/Strings-Practice-58A6FF?style=flat-square"/> <img src="https://img.shields.io/badge/Two%20Pointers-Practice-58A6FF?style=flat-square"/> <img src="https://img.shields.io/badge/Sliding%20Window-Practice-58A6FF?style=flat-square"/> <img src="https://img.shields.io/badge/XOR-Practice-58A6FF?style=flat-square"/> <img src="https://img.shields.io/badge/DP-Basics-58A6FF?style=flat-square"/> </div>
-<h2 align="center">🌱 Currently Learning</h2> <div align="center"> <img src="https://img.shields.io/badge/DSA-Learning-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/Spring%20Boot-Improving-6DB33F?style=for-the-badge"/> <img src="https://img.shields.io/badge/REST%20APIs-Building-02569B?style=for-the-badge"/> <img src="https://img.shields.io/badge/Authentication-Learning-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/React-Improving-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Spring%20AI-Exploring-6DB33F?style=for-the-badge"/> <img src="https://img.shields.io/badge/OpenAI%20API-Exploring-412991?style=for-the-badge"/> <img src="https://img.shields.io/badge/Ollama-Exploring-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/System%20Design-Learning-58A6FF?style=for-the-badge"/> </div>
-<h2 align="center">💡 Development Philosophy</h2> <div align="center"> <h3>Build → Break → Debug → Learn → Improve</h3> <br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Learning+Today+%F0%9F%8C%B1;Building+Tomorrow+%F0%9F%9A%80;One+Problem+at+a+Time+%F0%9F%A7%A0;One+Project+at+a+Time+%E2%9A%A1;Always+Improving+%F0%9F%94%A5" alt="Developer Animation"/>
+<img src="https://raw.githubusercontent.com/komal-k2005/komal-k2005/main/dist/github-snake.svg" alt="Snake Animation"/>
+</div>
+
+---
+
+<h2 align="center">🧠 Problem Solving</h2>
+
+<div align="center">
+<a href="https://leetcode.com/u/komal-k2005/">
+<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.hackerrank.com/komal-k2005">
+<img src="https://img.shields.io/badge/HackerRank-Practice-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Arrays-Practice-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/HashMap-Practice-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/HashSet-Practice-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Strings-Practice-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Two%20Pointers-Practice-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sliding%20Window-Practice-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/XOR-Practice-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/DP-Basics-58A6FF?style=flat-square"/>
+</div>
+
+---
+
+<h2 align="center">🌱 Currently Learning</h2>
+
+<div align="center">
+<img src="https://img.shields.io/badge/DSA-Learning-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-Improving-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-Building-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Authentication-Learning-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-Improving-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring%20AI-Exploring-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-Exploring-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-Exploring-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-Learning-58A6FF?style=for-the-badge"/>
+</div>
+
+---
+
+<h2 align="center">💡 Development Philosophy</h2>
+
+<div align="center">
+<h3>Build → Break → Debug → Learn → Improve</h3>
+
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Learning+Today+%F0%9F%8C%B1;Building+Tomorrow+%F0%9F%9A%80;One+Problem+at+a+Time+%F0%9F%A7%A0;One+Project+at+a+Time+%E2%9A%A1;Always+Improving+%F0%9F%94%A5" alt="Developer Animation"/>
 
 <br><br>
 
 <i>"Build with Logic. Code with Purpose. Grow with Consistency."</i>
 
 </div>
-<h2 align="center">🤝 Let's Connect</h2> <div align="center"> <a href="https://github.com/komal-k2005"> <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/komal-kathwade/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:hellokomalk@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://leetcode.com/u/komal-k2005/"> <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> </div> <br> <div align="center">
+
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<div align="center">
+<a href="https://github.com/komal-k2005">
+<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/komal-kathwade/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:hellokomalk@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/komal-k2005/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</div>
+
+<br>
+
+<div align="center">
 ⭐ Thanks for visiting my profile!
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Keep+Coding+%E2%98%95;Keep+Learning+%F0%9F%A7%A0;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%8C%B1" alt="Footer Animation"/>
 
@@ -196,4 +329,5 @@ Prompt Engineering
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </div> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
