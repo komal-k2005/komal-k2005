@@ -44,7 +44,7 @@
 <table>
 <tr>
 
-<td width="58%" valign="middle">
+<td width="60%" valign="middle">
 
 <h3>🚀 Developer in Progress</h3>
 
@@ -86,9 +86,11 @@
 
 </td>
 
-<td width="42%" align="center">
+<td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC6Pfv687qPC/giphy.gif" width="350" alt="Coding Animation"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="350" alt="Coding Animation"/>
+</div>
 
 <br><br>
 
@@ -148,24 +150,30 @@ public class Komal {
 <h3 align="center">☕ Languages</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 <h3 align="center">⚙️ Frameworks & Backend</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=spring,react,tailwind"/>
-</p>
-
-<p align="center">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
 <h3 align="center">🗄️ Database & Development Tools</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,git,github,postman,idea"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </p>
 
 <h3 align="center">🤖 AI & APIs</h3>
@@ -239,7 +247,7 @@ Prompt Engineering
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/komal-k2005/komal-k2005/main/dist/github-snake.svg" alt="Snake Animation"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=komal-k2005&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&height=280" alt="Contribution Graph"/>
 </div>
 
 ---
