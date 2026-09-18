@@ -139,9 +139,6 @@
 <a href="https://www.hackerrank.com/profile/komalkathwade"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 <a href="https://www.kaggle.com/komalkathwade"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
-
-<p align="center"><i>LeetCode/HackerRank/Kaggle have no official stat widgets — the card above is a community tool and can occasionally lag; the badges always work as direct links.</i></p>
-
 ---
 
 <!-- Focus -->
