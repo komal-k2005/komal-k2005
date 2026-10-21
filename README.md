@@ -89,6 +89,34 @@
 
 ---
 
+<!-- Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+<tr>
+<th align="left">Project</th>
+<th align="left">What it does</th>
+<th align="left">Tech</th>
+</tr>
+<tr>
+<td><a href="https://github.com/komal-k2005/expense-tracker-spring-boot"><b>Expense Tracker API</b></a></td>
+<td>REST API with JWT login to add expenses by category and get monthly summaries</td>
+<td>Java, Spring Boot, Spring Security, JPA, MySQL</td>
+</tr>
+<tr>
+<td><a href="https://github.com/komal-k2005/expense-data-analysis"><b>Expense Data Analysis</b></a></td>
+<td>Python notebook that cleans the exported expense data and shows spending trends with charts</td>
+<td>Python, Pandas, Matplotlib, Jupyter</td>
+</tr>
+<tr>
+<td><a href="https://github.com/komal-k2005/AI-Mock-Interview"><b>AI Mock Interview</b></a></td>
+<td>Lets job seekers practice interviews with AI-generated questions and feedback</td>
+<td>JavaScript</td>
+</tr>
+</table>
+
+---
+
 <!-- GitHub Stats -->
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30"/> GitHub Stats</h2>
 
