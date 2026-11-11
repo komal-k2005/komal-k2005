@@ -21,7 +21,7 @@
 - 🎓 Final-year B.Tech Computer Engineering student from Pune
 - 💻 I enjoy solving problems with code and picking up new tools quickly
 - 🌱 Practicing data structures and algorithms on LeetCode and HackerRank
-- 🎯 Looking for a full-time entry-level software role where I can learn, contribute and grow
+- 🎯 Looking for a full-time entry level software role where I can learn, contribute and grow
 
 ![Open to Full-Time Roles](https://img.shields.io/badge/Open%20to-Full--Time%20Roles-success?style=flat-square)
 
