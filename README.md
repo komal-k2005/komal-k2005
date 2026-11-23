@@ -55,14 +55,18 @@
 
 ---
 
-## GitHub Activity (2026)
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=komal-k2005&starting_year=2026&theme=dark&hide_border=true" height="170" alt="GitHub Streak 2026"/>
-<img src="https://github-readme-stats.vercel.app/api?username=komal-k2005&theme=dark&hide_border=true&count_private=true&commits_year=2026&hide=stars,prs,issues,contribs&hide_rank=true&custom_title=Commits%20in%202026&show_icons=true" height="170" alt="Commits 2026"/>
+<img src="https://streak-stats.demolab.com/?user=komal-k2005&theme=dark&hide_border=true" height="170" alt="GitHub Streak"/>
 
 </div>
+
+### Contributions by Year (Public / Private / All)
+
+<!--STATS_START-->
+<!--STATS_END-->
 
 ---
 
