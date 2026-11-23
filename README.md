@@ -63,7 +63,6 @@
 
 </div>
 
-### Contributions by Year (Public / Private / All)
 
 <!--STATS_START-->
 <!--STATS_END-->
