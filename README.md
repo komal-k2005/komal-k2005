@@ -57,7 +57,7 @@
 
 ## GitHub Activity
 
-<div align="center">
+<div>
 
 <img src="https://streak-stats.demolab.com/?user=komal-k2005&theme=dark&hide_border=true" height="170" alt="GitHub Streak"/>
 
