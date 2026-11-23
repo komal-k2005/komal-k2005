@@ -7,6 +7,7 @@
 <p>
 <a href="https://www.linkedin.com/in/komal-kathwade/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:hellokomalk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/komal-k2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://leetcode.com/u/hellokomal/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://www.hackerrank.com/profile/komalkathwade"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 <a href="https://www.kaggle.com/komalkathwade"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
@@ -58,12 +59,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=komalk-2005&theme=dark&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=komal-k2005&theme=dark&hide_border=true" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=komalk-2005&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalk-2005&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=komal-k2005&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal-k2005&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages"/>
 
 </div>
 
