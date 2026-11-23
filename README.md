@@ -62,8 +62,8 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=komalkathwade&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalkathwade&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=komalk-2005&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalk-2005&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages"/>
 
 </div>
 
