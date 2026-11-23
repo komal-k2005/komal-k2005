@@ -54,6 +54,21 @@
 
 ---
 
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=komalkathwade&theme=dark&hide_border=true" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=komalkathwade&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalkathwade&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages"/>
+
+</div>
+
+---
+
 ## Contact
 
 📧 hellokomalk@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/komal-kathwade/)
