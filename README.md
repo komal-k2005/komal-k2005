@@ -55,16 +55,12 @@
 
 ---
 
-## GitHub Activity
+## GitHub Activity (2026)
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=komal-k2005&theme=dark&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=komal-k2005&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal-k2005&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com/?user=komal-k2005&starting_year=2026&theme=dark&hide_border=true" height="170" alt="GitHub Streak 2026"/>
+<img src="https://github-readme-stats.vercel.app/api?username=komal-k2005&theme=dark&hide_border=true&count_private=true&commits_year=2026&hide=stars,prs,issues,contribs&hide_rank=true&custom_title=Commits%20in%202026&show_icons=true" height="170" alt="Commits 2026"/>
 
 </div>
 
